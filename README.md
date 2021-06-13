@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kaltun M Mohamud
-- 👀 I’m interested in Network & Cloud Technologies, Information Security, IT Management & Strategy. 
+- 👀 I’m interested in Network & Cloud Technologies, Information Security and IT Management & Strategy. 
 - 🌱 I’m currently pursuing Cyber Security from University of Minnesota 
 - 💞️ I’m looking to collaborate on projects with new Technologies
 - 📫 How to reach me ...
